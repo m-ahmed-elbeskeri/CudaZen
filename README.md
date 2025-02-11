@@ -218,7 +218,7 @@ This project is **MIT Licensed** – free for both commercial & personal use.
 ## **Contact**
 🚀 Created by Mohamed Ahmed
 📧 Email: Mohamed.ahmed.4894@gmail.com
-🔗 GitHub: [Your GitHub Profile](https://github.com/your-username)  
+
 
 ---
 
