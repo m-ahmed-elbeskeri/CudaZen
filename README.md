@@ -32,7 +32,7 @@ This transpiler converts easy-to-read DSL code into optimized CUDA C++ code whil
 ### **Installation**
 Clone this repository:  
 ```bash
-git clone https://github.com/your-username/CudaZenTranspiler.git
+git clone https://github.com/m-ahmed-elbeskeri/CudaZenTranspiler.git
 cd CudaZenTranspiler
 ```
 
